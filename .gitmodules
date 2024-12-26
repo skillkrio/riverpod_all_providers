@@ -1,0 +1,33 @@
+[submodule "riverpod_provider_01"]
+	path = riverpod_provider_01
+	url = https://github.com/skillkrio/riverpod_provider_01.git
+[submodule "state_provider_02"]
+	path = state_provider_02
+	url = https://github.com/skillkrio/state_provider_02.git
+[submodule "future_provider_03"]
+	path = future_provider_03
+	url = https://github.com/skillkrio/future_provider_03.git
+[submodule "stream_provider_04"]
+	path = stream_provider_04
+	url = https://github.com/skillkrio/stream_provider_04.git
+[submodule "state_notifier_provider_05"]
+	path = state_notifier_provider_05
+	url = https://github.com/skillkrio/state_notifier_provider_05.git
+[submodule "change_notifier_provider_06"]
+	path = change_notifier_provider_06
+	url = https://github.com/skillkrio/change_notifier_provider_06.git
+[submodule "notifier_provider_07"]
+	path = notifier_provider_07
+	url = https://github.com/skillkrio/notifier_provider_07.git
+[submodule "async_notifier_provider_08"]
+	path = async_notifier_provider_08
+	url = https://github.com/skillkrio/async_notifier_provider_08.git
+[submodule "stream_notifier_provider_09"]
+	path = stream_notifier_provider_09
+	url = https://github.com/skillkrio/stream_notifier_provider_09.git
+[submodule "asyncvalue_details"]
+	path = asyncvalue_details
+	url = https://github.com/skillkrio/asyncvalue_details.git
+[submodule "provider_lifecycle-riverpod"]
+	path = provider_lifecycle-riverpod
+	url = https://github.com/skillkrio/provider_lifecycle-riverpod.git
